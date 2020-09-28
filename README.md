@@ -2,7 +2,7 @@
 
 <p><b>Welcome to my page!</b> </br> I'm Ashour, you can call me Hurricane. Hobby developer, mainly developing in JS and Python. Trying to improve JS and Python skills. I like making things! Through code, all things are possible! I'm from <img src="https://image.flaticon.com/icons/svg/323/323324.svg" width="13"/> <b>Egypt</b>, currently living in <img src="https://image.flaticon.com/icons/svg/190/190471.svg" width="13"/> <b>Egypt, Cairo</b>. </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=TheMaestro0&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xSimplez&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <h3>Some things I code with</h3>
 <p>
